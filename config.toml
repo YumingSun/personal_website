@@ -33,15 +33,24 @@ pygmentsStyle = "native"
 # Configure main navbar links. They can have a weight to select the order.
 # This links to content within the content/post/ folder
 [[menu.main]]
-    name = "Posts"
-    url = "/post/"
+    name = "CV"
+    url = "/cv/cv.pdf"
     weight = -150
 
-# This links to the page about.md
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Publications"
+    url = "/publication/"
     weight = -110
+    
+[[menu.main]]
+    name = "Teaching"
+    url = "/post/"
+    weight = -100
+
+
+
+    
+
 
 # Make the tags and categories pages accessible directly from the navbar.
 # [[menu.main]]
@@ -61,10 +70,10 @@ pygmentsStyle = "native"
     description = """The homepage of Astatine. This website is a demo the of the \
     Hugo theme Astatine."""
     # Author of the site
-    authorName = "Jack Harkness"
+    authorName = "Yuming Sun"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "img/main.jpg"
+        name = "main.jpg"
         # Add an alt description for the image
         alt = "Profile picture"
 
