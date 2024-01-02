@@ -19,14 +19,14 @@ personal_title: "Assistant Professor"
 # An address (you can list multiple)
 address: 
   - 
-    name: Everywhere
-    street: Nowhere
-    postal_code: "000000"
-    locality: Earth
+    name: Jones Hall, Room 111
+    street: 200 Ukrop Way
+    postal_code: "23185"
+    locality: Williamsburg, VA
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-# email: aaaa@example.com
+# email: ysun30@wm.edu
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg: 
 #   dark: /img/dark_email.png
