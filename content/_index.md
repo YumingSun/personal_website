@@ -36,4 +36,4 @@ address:
 # (which should be the image path). The other fields are optional.
 ---
 
-I am an Assistant Professor in the [Department of Mathematics](https://www.wm.edu/as/mathematics/) at the [College of William & Mary](https://www.wm.edu/).
+I am an Assistant Professor in the [Department of Mathematics](https://www.wm.edu/as/mathematics/) at the [College of William & Mary](https://www.wm.edu/). My research is motivated by problems arise in the field of biomedical and public health and is aimed at promoting individuazlied health decisions and precision health. Specifically, I am interested in statistical learning, non-/semi-parametric models and survival analysis. I also work on clinical data, electrical health records and medical images. 
