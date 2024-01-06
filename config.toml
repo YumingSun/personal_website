@@ -9,7 +9,6 @@ languageCode = "en-us"
 # Website title
 title = "Yuming Sun"
 # Theme used
-theme = "hugo-astatine-theme"
 
 preserveTaxonomyNames = true
 rssLimit = 10
