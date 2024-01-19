@@ -37,4 +37,3 @@ address:
 ---
 
 I am an Assistant Professor in the [Department of Mathematics](https://www.wm.edu/as/mathematics/) at the [College of William & Mary](https://www.wm.edu/). My research is motivated by challenges inherent in the intersection of statistics and vital aspects of biomedical and public health. I am committed to empowering individuals in making informed, personalized health decisions and actively contributing to the advancement of precision health. My research interests include statistical learning, non-/semi-parametric models, survival analysis, and causal inference. I work with clinical data, electronic health records and medical images. I received my PhD in Biostatistics at the [University of Michigan, Ann Arbor](https://sph.umich.edu/biostat/) under the supervision of Dr. [Yi Li](https://websites.umich.edu/~yili/) and Dr. [Jian Kang](https://sph.umich.edu/faculty-profiles/kang-jian.html).
-
