@@ -41,6 +41,9 @@ publications:
       -
         name: Main URL
         url: "https://arxiv.org/abs/2303.05341"
+      -
+        name: Code
+        url: "https://github.com/YumingSun/Penalized_Deep_Partially_Linear_Cox_Model"
   
   - 
     authors:
@@ -83,6 +86,9 @@ publications:
       -
         name: Main URL
         url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10065608/"
+      -
+        name: Code
+        url: "https://github.com/YumingSun/INNER"
   
   - 
     authors:
