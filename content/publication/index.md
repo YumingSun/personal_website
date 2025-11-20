@@ -5,7 +5,7 @@ publications:
         - name: Sun, Y.
           me: true
         - name: Alvarez, A.
-	- name: Li, Y.
+        - name: Li, Y.
         - name: Christiani, D.
     title: "Effects of gender on mortality in patients with lung cancer: A multiple mediation analysis of Boston Lung Cancer Study"
     date: 2025
