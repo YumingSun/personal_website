@@ -1,5 +1,42 @@
 ---
 publications:
+  -
+    authors:
+        - name: Sun, Y.
+          me: true
+        - name: Alvarez, A.
+	- name: Li, Y.
+        - name: Christiani, D.
+    title: "Effects of gender on mortality in patients with lung cancer: A multiple mediation analysis of Boston Lung Cancer Study"
+    date: 2025
+    journal: Clinical Lung Cancer
+    pdf: ./paper/effect_of_sex.pdf
+    links:
+      -
+        name: Main URL
+        url: "https://www.sciencedirect.com/science/article/abs/pii/S1525730425002335?via%3Dihub"
+
+  -
+    authors:
+        - name: Sun, Y.
+          me: true
+        - name: Kang, J.
+        - name: Zhang, F.
+        - name: Wang, H.
+        - name: Lai, P.
+        - name: Washko, G.
+        - name: Estepar, R.
+        - name: Christiani, D.
+        - name: Li, Y.
+    title: "Characterization of occupational endotoxin-related small airway disease with longitudinal paired inspiratory/expiratory CT scans"
+    date: 2025
+    journal: Chest
+    pdf: ./paper/characterization_occupational_endotoxin.pdf
+    links:
+      -
+        name: Main URL
+        url: "https://www.sciencedirect.com/science/article/abs/pii/S0012369225000212?via%3Dihub"
+
   - 
     authors:
         - name: Sun, Y. 
@@ -15,14 +52,14 @@ publications:
         - name: Kang, J.
         - name: Christiani, D.
         - name: Li, Y.
-    title: "Assessing the Prognostic Utility of Clinical and Radiomic Features for COVID-19 Patients Admitted to ICU: Challenges and Lessons Learned."
+    title: "Assessing the Prognostic Utility of Clinical and Radiomic Features for COVID-19 Patients Admitted to ICU: Challenges and Lessons Learned"
     date: 2024
-    journal: Harvard Data Science Review (In press)
-    pdf: https://assets.pubpub.org/c9ybougn/Sun%20et%20al.%20(2023)_Just%20Accepted-41703102294301.pdf
+    journal: Harvard Data Science Review
+    pdf: ./paper/assess_prognostic_utility.pdf
     links:
       -
         name: Main URL
-        url: "https://hdsr.mitpress.mit.edu/pub/ju1nvjw6/release/1?readingCollection=3974b7e6" 
+        url: "https://hdsr.mitpress.mit.edu/pub/ju1nvjw6/release/4" 
   
   - 
     authors:
@@ -35,12 +72,12 @@ publications:
         - name: Li, Y.
     title: "Penalized Deep Partially Linear Cox Models with Application to CT Scans of Lung Cancer Patients"
     date: 2024
-    journal: Biometrics (In press)
-    pdf: https://arxiv.org/pdf/2303.05341.pdf
+    journal: Biometrics
+    pdf: ./paper/penalize_deep_partial_cox.pdf
     links:
       -
         name: Main URL
-        url: "https://arxiv.org/abs/2303.05341"
+        url: "https://academic.oup.com/biometrics/article/80/1/ujad024/7614803"
       -
         name: Code
         url: "https://github.com/YumingSun/Penalized_Deep_Partially_Linear_Cox_Model"
