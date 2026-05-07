@@ -4,6 +4,21 @@ publications:
     authors:
         - name: Sun, Y.
           me: true
+        - name: Lee, A.
+        - name: Lee, S. E.
+        - name: Dey, T.
+    title: "Spatiotemporal Analysis of Human Response to Wildfire Events and PM2.5 Exposure"
+    date: 2026
+    journal: American Journal of Epidemiology 
+    links:
+      -
+        name: Main URL
+        url: "https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwag002/8425221"
+
+  -
+    authors:
+        - name: Sun, Y.
+          me: true
         - name: Alvarez, A.
         - name: Li, Y.
         - name: Christiani, D.
